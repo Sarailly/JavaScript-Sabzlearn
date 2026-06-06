@@ -56,6 +56,6 @@ if (userSearch.trim().length === 0) {
       i++; //add index number
     });
 
-    alert(result);
+    alert(result); 
   }
 }
